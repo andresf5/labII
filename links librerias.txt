@@ -1,0 +1,2 @@
+https://github.com/adafruit/TFTLCD-Library 
+https://learn.adafruit.com/adafruit-3-5-color-320x480-tft-touchscreen-breakout/overview
