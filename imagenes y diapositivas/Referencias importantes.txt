@@ -1,0 +1,12 @@
+
+en la siguiente referencia se puede observar el comportamiento de un amplificacor operacional, de aqui se saca la idea del circuito sumador y del inversor,
+
+https://tallertronica.files.wordpress.com/2018/01/configuraciones-bc3a1sicas-de-amplificadores-operacionales.png
+
+En el siguiente link, explica como realizar la graficar una señal que ingresa por un puerto analogico
+ en una pantalla haciendo uso de un arduino.(este codigo es usado como base pero se obtienen ideas de otros portales de internet,
+ auqnue consideramos este como la principal guia)
+
+
+http://domoticx.com/arduino-display-oled-i2c-sh1106-voorbeelden/
+
